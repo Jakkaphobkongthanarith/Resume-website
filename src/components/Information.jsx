@@ -1,4 +1,4 @@
-import Pythonimg from '../Image/Python.png';
+import Pythonimg from '../Image/python.png';
 import JSXimg from '../Image/jsx.png';
 import CSSimg from '../Image/css.png';
 import MLimg from '../Image/ML.png';
