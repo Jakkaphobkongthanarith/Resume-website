@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import "./Style.css"
-import Pythonimg from "../Image/Python.png";
 
 const Main = () => {
   return (
